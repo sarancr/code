@@ -21,5 +21,5 @@ var smallerNumbersThanCurrent = function(nums) {
 };
 
 
-
-//[8 , 2, 5, 1]
+//input [8 , 2, 5, 1]
+//output [4,0,1,1,3]
